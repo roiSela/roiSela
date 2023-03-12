@@ -2,7 +2,7 @@
 
 # 🏄 Roi Sela
 
-**'Digital Crafsman (Software engineer/technologist/electrical engineering student/mathematician)'**
+**Digital Crafsman (Software engineer/technologist/electrical engineering student/mathematician)**
 
 I'm a technologist building my version of the world one step at a time (corny, but C'est la vie).
 All coding projects are build from ground up, from planning and designing all the way to solving real-life problems with code.
