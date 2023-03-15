@@ -10,13 +10,13 @@ All coding projects are build from ground up, from planning and designing all th
 ### My Skills
 Here are some of the technologies and tools that I have experience with:
 
-🚀 Programming Languages: Python, JavaScript, Java, C++, and more!
+🚀 Programming Languages: C, Python, JavaScript, Java, C++, and more!
 
 🌐 Web Development: HTML, CSS, React, Angular, Vue.js, Node.js, Django, Flask, and more!
 
 📊 Data Science: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and more!
 
-📱 Mobile Development: React Native, Kotlin, Swift, and more!
+📱 Mobile Development (Basic experience): React Native, Kotlin, Swift, and more!
 
 🗄️ Databases: SQL, PostgreSQL, MongoDB, Redis, and more!
 
