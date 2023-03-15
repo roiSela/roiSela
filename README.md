@@ -14,7 +14,7 @@ Here are some of the technologies and tools that I have experience with:
 
 🌐 Web Development: HTML, CSS, React, Node.js, Django, Flask, and more!
 
-📊 Data Science: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and more!
+📊 Data Science: NumPy, Pandas, TensorFlow, PyTorch, and more!
 
 📱 Mobile Development (Basic experience): React Native, Kotlin, Swift, and more!
 
