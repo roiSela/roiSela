@@ -7,15 +7,21 @@
 I'm a technologist building my version of the world one step at a time (corny, but C'est la vie).
 All coding projects are build from ground up, from planning and designing all the way to solving real-life problems with code.
 
-My Skills
+### My Skills
 Here are some of the technologies and tools that I have experience with:
 
 🚀 Programming Languages: Python, JavaScript, Java, C++, and more!
+
 🌐 Web Development: HTML, CSS, React, Angular, Vue.js, Node.js, Django, Flask, and more!
+
 📊 Data Science: NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, and more!
+
 📱 Mobile Development: React Native, Kotlin, Swift, and more!
+
 🗄️ Databases: SQL, PostgreSQL, MongoDB, Redis, and more!
+
 🔧 DevOps: Git, GitHub Actions, Docker, Kubernetes, AWS, and more!
+
 🧪 Testing: Jest, Enzyme, Pytest, JUnit, and more!
 
 <!--
