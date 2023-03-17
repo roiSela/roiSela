@@ -10,7 +10,7 @@ All coding projects are build from ground up, from planning and designing all th
 ### My Skills
 Here are some of the technologies and tools that I have experience with:
 
-🚀 Programming Languages: C, Python, JavaScript, Java, C++, and more!
+🚀 Programming Languages: C, Python, JavaScript, Java, C++, Go and more!
 
 🌐 Web Development: HTML, CSS, React, Node.js, Django, Flask, and more!
 
