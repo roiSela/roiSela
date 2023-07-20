@@ -18,7 +18,7 @@ Here are some of the technologies and tools that I have experience with:
 
 📱 Mobile Development (Basic experience): React Native, Kotlin, Swift, and more!
 
-🗄️ Databases: SQL, PostgreSQL, MongoDB, Redis, and more!
+🗄️ Databases: SQL, MsSQL Server, PostgreSQL, MongoDB, Redis, and more!
 
 🔧 DevOps: Git, GitHub Actions, Docker, Kubernetes, AWS, and more!
 
